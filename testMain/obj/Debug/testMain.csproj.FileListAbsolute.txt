@@ -1,0 +1,5 @@
+C:\Users\Hamed_201X\Desktop\ProjectMalek\SnortTraining01122020\SnortTraining\testMain\obj\Debug\testMain.csprojResolveAssemblyReference.cache
+C:\Users\Hamed_201X\Desktop\ProjectMalek\SnortTraining01122020\SnortTraining\testMain\obj\Debug\Testanimate.MainForm.resources
+C:\Users\Hamed_201X\Desktop\ProjectMalek\SnortTraining01122020\SnortTraining\testMain\obj\Debug\testMain.Properties.Resources.resources
+C:\Users\Hamed_201X\Desktop\ProjectMalek\SnortTraining01122020\SnortTraining\testMain\obj\Debug\testMain.csproj.GenerateResource.Cache
+C:\Users\Hamed_201X\Desktop\ProjectMalek\SnortTraining01122020\SnortTraining\testMain\bin\Debug\testMain.exe.config

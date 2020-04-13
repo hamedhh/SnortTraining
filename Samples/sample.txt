@@ -1,0 +1,428 @@
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:43:09.173299 10.1.60.203:57764 -> 7.204.241.161:25
+TCP TTL:63 TOS:0x0 ID:51372 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x787AFC70  Ack: 0x0  Win: 0x0  TcpLen: 20
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:45:54.394828 7.204.241.161:25 -> 10.1.60.203:50176
+TCP TTL:64 TOS:0x0 ID:1283 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE06DEE6F  Ack: 0x0  Win: 0x0  TcpLen: 20
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:45:54.395078 7.204.241.161:25 -> 10.1.60.203:50176
+TCP TTL:64 TOS:0x0 ID:1284 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xE06DEE6F  Ack: 0x0  Win: 0x0  TcpLen: 20
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:47:02.322926 154.241.88.201:80 -> 3.75.190.181:60708
+TCP TTL:63 TOS:0x0 ID:21269 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0xE20FC272  Ack: 0x567079D3  Win: 0x5B  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 66621799 74830877 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:47:02.323457 154.241.88.201:80 -> 3.75.190.181:60708
+TCP TTL:63 TOS:0x0 ID:21270 IpLen:20 DgmLen:455 DF
+***AP*** Seq: 0xE20FC272  Ack: 0x567079D3  Win: 0x5B  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 66621799 74830877 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.783211 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54149 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x8580A703  Ack: 0x0  Win: 0xFFFF  TcpLen: 40
+TCP Options (5) => MSS: 1460 NOP WS: 3 SackOK TS: 47703591 0 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.783554 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:60 DF
+***A**S* Seq: 0x6B560026  Ack: 0x8580A704  Win: 0x16A0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 67042354 47703591 NOP WS: 6 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.784376 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54150 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x8580A704  Ack: 0x6B560027  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703592 67042354 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.788034 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54151 IpLen:20 DgmLen:188 DF
+***AP*** Seq: 0x8580A704  Ack: 0x6B560027  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703596 67042354 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.788178 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64528 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x6B560027  Ack: 0x8580A78C  Win: 0x6C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042359 47703596 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.798436 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64530 IpLen:20 DgmLen:149 DF
+***AP*** Seq: 0x6B5605CF  Ack: 0x8580A78C  Win: 0x6C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042368 47703596 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.800310 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54152 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x8580A78C  Ack: 0x6B560630  Win: 0x1FC5  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703608 67042368 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.817548 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54153 IpLen:20 DgmLen:250 DF
+***AP*** Seq: 0x8580A78C  Ack: 0x6B560630  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703618 67042368 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.823906 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64531 IpLen:20 DgmLen:111 DF
+***AP*** Seq: 0x6B560630  Ack: 0x8580A852  Win: 0x7C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042394 47703618 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.825372 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54154 IpLen:20 DgmLen:238 DF
+***AP*** Seq: 0x8580A852  Ack: 0x6B56066B  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703633 67042394 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.828968 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64532 IpLen:20 DgmLen:1373 DF
+***AP*** Seq: 0x6B56066B  Ack: 0x8580A90C  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042400 47703633 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.829088 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64533 IpLen:20 DgmLen:89 DF
+***AP*** Seq: 0x6B560B94  Ack: 0x8580A90C  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042400 47703633 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.829181 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64534 IpLen:20 DgmLen:52 DF
+***A***F Seq: 0x6B560BB9  Ack: 0x8580A90C  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042400 47703633 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.831950 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54155 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x8580A90C  Ack: 0x6B560BB9  Win: 0x1FDC  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703640 67042400 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.832055 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54156 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x8580A90C  Ack: 0x6B560BBA  Win: 0x1FF2  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703640 67042400 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.832321 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54157 IpLen:20 DgmLen:89 DF
+***AP*** Seq: 0x8580A90C  Ack: 0x6B560BBA  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703640 67042400 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.832519 10.1.60.203:58113 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:54158 IpLen:20 DgmLen:52 DF
+***A***F Seq: 0x8580A931  Ack: 0x6B560BBA  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 47703641 67042400 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-09:54:00.832696 154.241.88.201:443 -> 10.1.60.203:58113
+TCP TTL:64 TOS:0x0 ID:64535 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x6B560BBA  Ack: 0x8580A932  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67042404 47703640 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-09:58:56.275385 7.204.241.161:993 -> 31.154.241.2:1296
+TCP TTL:63 TOS:0x0 ID:3064 IpLen:20 DgmLen:77 DF
+***AP*** Seq: 0x8AB87CDD  Ack: 0x9AE31DB  Win: 0xFFFF  TcpLen: 20
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:00:04.236747 7.204.241.161:51451 -> 10.1.10.10:25
+TCP TTL:64 TOS:0x0 ID:3159 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0xB159B00F  Ack: 0x0  Win: 0x0  TcpLen: 20
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:00:07.126084 10.1.10.10:25 -> 7.204.241.161:51451
+TCP TTL:125 TOS:0x0 ID:18249 IpLen:20 DgmLen:116 DF
+***AP**F Seq: 0x2E79010  Ack: 0xB159B010  Win: 0xFFFF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 11063197 73853 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:00:11.265069 10.1.10.10:25 -> 7.204.241.161:51451
+TCP TTL:125 TOS:0x0 ID:18255 IpLen:20 DgmLen:116
+***AP**F Seq: 0x2E79010  Ack: 0xB159B010  Win: 0xFFFF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 11063238 73853 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:00:15.182329 10.1.10.10:25 -> 7.204.241.161:51451
+TCP TTL:125 TOS:0x0 ID:18268 IpLen:20 DgmLen:116
+***AP**F Seq: 0x2E79010  Ack: 0xB159B010  Win: 0xFFFF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 11063278 73853 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:00:19.221401 10.1.10.10:25 -> 7.204.241.161:51451
+TCP TTL:125 TOS:0x0 ID:18279 IpLen:20 DgmLen:116 DF
+***AP**F Seq: 0x2E79010  Ack: 0xB159B010  Win: 0xFFFF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 11063318 73853 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:00:27.276080 10.1.10.10:25 -> 7.204.241.161:51451
+TCP TTL:125 TOS:0x0 ID:18295 IpLen:20 DgmLen:116 DF
+***AP**F Seq: 0x2E79010  Ack: 0xB159B010  Win: 0xFFFF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 11063399 73853 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:00:43.176329 10.1.10.10:25 -> 7.204.241.161:51451
+TCP TTL:125 TOS:0x0 ID:18355 IpLen:20 DgmLen:116 DF
+***AP**F Seq: 0x2E79010  Ack: 0xB159B010  Win: 0xFFFF  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 11063559 73853 
+###
+[**] [129:3:1] Data sent on stream not accepting data [**]
+[Priority: 3] 
+11/08-10:03:18.591461 7.204.241.161:993 -> 31.154.241.2:1340
+TCP TTL:63 TOS:0x0 ID:3706 IpLen:20 DgmLen:77 DF
+***AP*** Seq: 0x604F07C0  Ack: 0xC1151E08  Win: 0xFFFF  TcpLen: 20
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.812453 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56742 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x752E046  Ack: 0x0  Win: 0xFFFF  TcpLen: 40
+TCP Options (5) => MSS: 1460 NOP WS: 3 SackOK TS: 48302515 0 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.812669 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:0 IpLen:20 DgmLen:60 DF
+***A**S* Seq: 0x9BDAA008  Ack: 0x752E047  Win: 0x16A0  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK TS: 67642371 48302515 NOP WS: 6 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.813447 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56743 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x752E047  Ack: 0x9BDAA009  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302517 67642371 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.816829 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56744 IpLen:20 DgmLen:188 DF
+***AP*** Seq: 0x752E047  Ack: 0x9BDAA009  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302520 67642371 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.817088 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33793 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x9BDAA009  Ack: 0x752E0CF  Win: 0x6C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642376 48302520 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.825931 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33795 IpLen:20 DgmLen:149 DF
+***AP*** Seq: 0x9BDAA5B1  Ack: 0x752E0CF  Win: 0x6C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642380 48302520 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.829811 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56745 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x752E0CF  Ack: 0x9BDAA612  Win: 0x2052  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302534 67642380 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.846064 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56746 IpLen:20 DgmLen:250 DF
+***AP*** Seq: 0x752E0CF  Ack: 0x9BDAA612  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302542 67642380 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.852154 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33796 IpLen:20 DgmLen:111 DF
+***AP*** Seq: 0x9BDAA612  Ack: 0x752E195  Win: 0x7C  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642409 48302542 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.853510 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56747 IpLen:20 DgmLen:238 DF
+***AP*** Seq: 0x752E195  Ack: 0x9BDAA64D  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302557 67642409 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.858304 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33797 IpLen:20 DgmLen:1373 DF
+***AP*** Seq: 0x9BDAA64D  Ack: 0x752E24F  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642416 48302557 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.858442 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33798 IpLen:20 DgmLen:89 DF
+***AP*** Seq: 0x9BDAAB76  Ack: 0x752E24F  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642417 48302557 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.858542 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33799 IpLen:20 DgmLen:52 DF
+***A***F Seq: 0x9BDAAB9B  Ack: 0x752E24F  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642417 48302557 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.861435 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56748 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x752E24F  Ack: 0x9BDAAB9B  Win: 0x2081  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302566 67642416 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.861437 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56749 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x752E24F  Ack: 0x9BDAAB9C  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302566 67642417 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.861653 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56750 IpLen:20 DgmLen:89 DF
+***AP*** Seq: 0x752E24F  Ack: 0x9BDAAB9C  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302566 67642417 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.861655 10.1.60.203:64941 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:56751 IpLen:20 DgmLen:52 DF
+***A***F Seq: 0x752E274  Ack: 0x9BDAAB9C  Win: 0x2086  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 48302566 67642417 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:03:57.861858 154.241.88.201:443 -> 10.1.60.203:64941
+TCP TTL:64 TOS:0x0 ID:33800 IpLen:20 DgmLen:52 DF
+***A**** Seq: 0x9BDAAB9C  Ack: 0x752E275  Win: 0x8D  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 67642421 48302566 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:09:56.143080 10.1.60.203:55652 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:58247 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6CA8B074  Ack: 0x0  Win: 0xFFFF  TcpLen: 40
+TCP Options (5) => MSS: 1460 NOP WS: 3 SackOK TS: 48661984 0 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:09:59.133198 10.1.60.203:55652 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:58253 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6CA8B074  Ack: 0x0  Win: 0xFFFF  TcpLen: 40
+TCP Options (5) => MSS: 1460 NOP WS: 3 SackOK TS: 48664984 0 
+###
+[**] [129:4:1] TCP Timestamp is outside of PAWS window [**]
+[Priority: 3] 
+11/08-10:10:02.322371 10.1.60.203:55652 -> 154.241.88.201:443
+TCP TTL:63 TOS:0x0 ID:58282 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x6CA8B074  Ack: 0x0  Win: 0xFFFF  TcpLen: 40
+TCP Options (5) => MSS: 1460 NOP WS: 3 SackOK TS: 48668184 0 
+###
+[**] [1:2229:5] WEB-PHP viewtopic.php access [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/08-13:01:58.895402 10.2.190.254:36626 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:61671 IpLen:20 DgmLen:117 DF
+***AP*** Seq: 0x317124FD  Ack: 0xCCEF60A0  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 906287 77786521 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11767][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0486][Xref => http://www.securityfocus.com/bid/7979]
+###
+[**] [119:4:1] (http_inspect) BARE BYTE UNICODE ENCODING [**]
+[Priority: 3] 
+11/08-13:01:58.972141 10.2.190.254:50559 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:7514 IpLen:20 DgmLen:1200 DF
+***AP*** Seq: 0x31A7ED27  Ack: 0xCC6611BC  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 906300 77786624 
+###
+[**] [1:2229:5] WEB-PHP viewtopic.php access [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/08-13:01:59.165085 10.2.190.254:36887 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:29351 IpLen:20 DgmLen:117 DF
+***AP*** Seq: 0x3253A6C3  Ack: 0xCD4BCE90  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 906358 77786839 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11767][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0486][Xref => http://www.securityfocus.com/bid/7979]
+###
+[**] [1:2152:2] WEB-PHP test.php access [**]
+[Classification: access to a potentially vulnerable web application] [Priority: 2] 
+11/08-13:01:59.372095 10.2.190.254:44986 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:29525 IpLen:20 DgmLen:461 DF
+***AP*** Seq: 0x324EA727  Ack: 0xCD066632  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 906408 77786890 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11617]
+###
+[**] [1:2229:5] WEB-PHP viewtopic.php access [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/08-13:01:59.528836 10.2.190.254:45646 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:11811 IpLen:20 DgmLen:117 DF
+***AP*** Seq: 0x3247FAE6  Ack: 0xCD176CCD  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 906450 77787210 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11767][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0486][Xref => http://www.securityfocus.com/bid/7979]
+###
+[**] [1:2229:5] WEB-PHP viewtopic.php access [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/08-13:01:59.705919 10.2.190.254:59697 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:33714 IpLen:20 DgmLen:117 DF
+***AP*** Seq: 0x32375741  Ack: 0xCDA38932  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 906494 77787382 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11767][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0486][Xref => http://www.securityfocus.com/bid/7979]
+###
+[**] [1:2229:5] WEB-PHP viewtopic.php access [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/08-13:02:21.262448 10.2.190.254:43080 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:14326 IpLen:20 DgmLen:117 DF
+***AP*** Seq: 0x44B8D09C  Ack: 0xDF8C9F39  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 911913 77806310 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11767][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0486][Xref => http://www.securityfocus.com/bid/7979]
+###
+[**] [1:2229:5] WEB-PHP viewtopic.php access [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/08-13:02:22.318897 10.2.190.254:49250 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:42365 IpLen:20 DgmLen:117 DF
+***AP*** Seq: 0x47B64FB3  Ack: 0xE23A7253  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 912177 77809741 
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11767][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0486][Xref => http://www.securityfocus.com/bid/7979]
+###

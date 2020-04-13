@@ -1,0 +1,90 @@
+<rootTrack>
+  <idDes>
+    <id>[1:2002677:4]</id>
+    <Des>  ET SCAN Nikto Web App Scan in Progress </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Web Application Attack</Classification>
+  <time>11/10-09:58:04.891248</time>
+  <SrcIP>10.2.197.245:44765</SrcIP>
+  <DesIP>154.241.88.201:80</DesIP>
+  <cveID></cveID>
+  <cveDescription></cveDescription>
+  <AttackVector></AttackVector>
+  <AccessComplexity></AccessComplexity>
+  <Authentication></Authentication>
+  <ConfidentialityImpact></ConfidentialityImpact>
+  <IntegrityImpact></IntegrityImpact>
+  <AvailabilityImpact></AvailabilityImpact>
+  <BugtraqID></BugtraqID>
+  <BugtraqClass></BugtraqClass>
+  <BugtraqRemote></BugtraqRemote>
+  <BugtraqLocal></BugtraqLocal>
+  <BugtraqDescription></BugtraqDescription>
+  <Tags></Tags>
+  <LatLongIPSrc>61.5240,105.3188</LatLongIPSrc>
+  <LatLongIpDest>36.7500,3.0667</LatLongIpDest>
+  <CountryIPSrc>RU</CountryIPSrc>
+  <CountryIpDest>Algeria</CountryIpDest>
+</rootTrack>
+#
+<rootTrack>
+  <idDes>
+    <id>[1:2002677:4]</id>
+    <Des>  ET SCAN Nikto Web App Scan in Progress </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Web Application Attack</Classification>
+  <time>11/10-09:58:04.954851</time>
+  <SrcIP>10.2.197.245:44766</SrcIP>
+  <DesIP>154.241.88.201:80</DesIP>
+  <cveID></cveID>
+  <cveDescription></cveDescription>
+  <AttackVector></AttackVector>
+  <AccessComplexity></AccessComplexity>
+  <Authentication></Authentication>
+  <ConfidentialityImpact></ConfidentialityImpact>
+  <IntegrityImpact></IntegrityImpact>
+  <AvailabilityImpact></AvailabilityImpact>
+  <BugtraqID></BugtraqID>
+  <BugtraqClass></BugtraqClass>
+  <BugtraqRemote></BugtraqRemote>
+  <BugtraqLocal></BugtraqLocal>
+  <BugtraqDescription></BugtraqDescription>
+  <Tags></Tags>
+  <LatLongIPSrc>40.3399,127.5101</LatLongIPSrc>
+  <LatLongIpDest>36.7500,3.0667</LatLongIpDest>
+  <CountryIPSrc>KR</CountryIPSrc>
+  <CountryIpDest>Algeria</CountryIpDest>
+</rootTrack>
+#
+<rootTrack>
+  <idDes>
+    <id>[1:2002677:4]</id>
+    <Des>  ET SCAN Nikto Web App Scan in Progress </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Web Application Attack</Classification>
+  <time>11/10-09:58:05.017847</time>
+  <SrcIP>10.2.197.245:44767</SrcIP>
+  <DesIP>154.241.88.201:80</DesIP>
+  <cveID></cveID>
+  <cveDescription></cveDescription>
+  <AttackVector></AttackVector>
+  <AccessComplexity></AccessComplexity>
+  <Authentication></Authentication>
+  <ConfidentialityImpact></ConfidentialityImpact>
+  <IntegrityImpact></IntegrityImpact>
+  <AvailabilityImpact></AvailabilityImpact>
+  <BugtraqID></BugtraqID>
+  <BugtraqClass></BugtraqClass>
+  <BugtraqRemote></BugtraqRemote>
+  <BugtraqLocal></BugtraqLocal>
+  <BugtraqDescription></BugtraqDescription>
+  <Tags></Tags>
+  <LatLongIPSrc>56.1304,106.3468</LatLongIPSrc>
+  <LatLongIpDest>36.7500,3.0667</LatLongIpDest>
+  <CountryIPSrc>CA</CountryIPSrc>
+  <CountryIpDest>Algeria</CountryIpDest>
+</rootTrack>
+#

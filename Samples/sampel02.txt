@@ -1,0 +1,92 @@
+<rootTrack>
+    <id>[120:1:1]</id>
+    <Des>  (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT </Des>
+  <Priority>Priority: 3</Priority>
+  <Classification>Nan</Classification>
+  <time>11/11-21:57:27.805455</time>
+  <SrcIP>134.240.18.13:8014</SrcIP>
+  <DesIP>134.240.12.190:2368</DesIP>
+  <cveID></cveID>
+  <cveDescription></cveDescription>
+  <AttackVector></AttackVector>
+  <AccessComplexity></AccessComplexity>
+  <Authentication></Authentication>
+  <ConfidentialityImpact></ConfidentialityImpact>
+  <IntegrityImpact></IntegrityImpact>
+  <AvailabilityImpact></AvailabilityImpact>
+  <BugtraqID></BugtraqID>
+  <BugtraqClass></BugtraqClass>
+  <BugtraqRemote></BugtraqRemote>
+  <BugtraqLocal></BugtraqLocal>
+  <BugtraqDescription></BugtraqDescription>
+</rootTrack>
+#
+<rootTrack>
+    <id>[120:1:1]</id>
+    <Des>  (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT </Des>
+  <Priority>Priority: 3</Priority>
+  <Classification>Nan</Classification>
+  <time>11/11-21:57:28.385128</time>
+  <SrcIP>134.240.18.13:8014</SrcIP>
+  <DesIP>134.240.12.190:2369</DesIP>
+  <cveID></cveID>
+  <cveDescription></cveDescription>
+  <AttackVector></AttackVector>
+  <AccessComplexity></AccessComplexity>
+  <Authentication></Authentication>
+  <ConfidentialityImpact></ConfidentialityImpact>
+  <IntegrityImpact></IntegrityImpact>
+  <AvailabilityImpact></AvailabilityImpact>
+  <BugtraqID></BugtraqID>
+  <BugtraqClass></BugtraqClass>
+  <BugtraqRemote></BugtraqRemote>
+  <BugtraqLocal></BugtraqLocal>
+  <BugtraqDescription></BugtraqDescription>
+</rootTrack>
+#
+<rootTrack>
+    <id>[120:1:1]</id>
+    <Des>  (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT </Des>
+  <Priority>Priority: 3</Priority>
+  <Classification>Nan</Classification>
+  <time>11/11-21:57:28.427968</time>
+  <SrcIP>134.240.18.13:8014</SrcIP>
+  <DesIP>134.240.12.190:2370</DesIP>
+  <cveID></cveID>
+  <cveDescription></cveDescription>
+  <AttackVector></AttackVector>
+  <AccessComplexity></AccessComplexity>
+  <Authentication></Authentication>
+  <ConfidentialityImpact></ConfidentialityImpact>
+  <IntegrityImpact></IntegrityImpact>
+  <AvailabilityImpact></AvailabilityImpact>
+  <BugtraqID></BugtraqID>
+  <BugtraqClass></BugtraqClass>
+  <BugtraqRemote></BugtraqRemote>
+  <BugtraqLocal></BugtraqLocal>
+  <BugtraqDescription></BugtraqDescription>
+</rootTrack>
+#
+<rootTrack>
+    <id>[1:2189:5]</id>
+    <Des>  BAD-TRAFFIC IP Proto 103 PIM </Des>
+  <Priority>Priority: 2</Priority>
+  <Classification>Classification: Detection of a non-standard protocol or event</Classification>
+  <time>11/11-21:57:35.730905</time>
+  <SrcIP>134.240.12.254</SrcIP>
+  <DesIP>224.0.0.13</DesIP>
+  <cveID>CVE-2003-0567</cveID>
+  <cveDescription>Cisco IOS 11.x and 12.0 through 12.2 allows remote attackers to cause a denial of service (traffic block) by sending a particular sequence of IPv4 packets to an interface on the device, causing the input queue on that interface to be marked as full.</cveDescription>
+  <AttackVector>Network</AttackVector>
+  <AccessComplexity>Low</AccessComplexity>
+  <Authentication>None</Authentication>
+  <ConfidentialityImpact>None</ConfidentialityImpact>
+  <IntegrityImpact>None</IntegrityImpact>
+  <AvailabilityImpact>Complete</AvailabilityImpact>
+  <BugtraqID>8211</BugtraqID>
+  <BugtraqClass>Failure to Handle Exceptional Conditions</BugtraqClass>
+  <BugtraqRemote>Yes</BugtraqRemote>
+  <BugtraqLocal>No</BugtraqLocal>
+  <BugtraqDescription>Cisco IOS Malicious IPV4 Packet Sequence Denial Of Service Vulnerability</BugtraqDescription>
+</rootTrack>
+

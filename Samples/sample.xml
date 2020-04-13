@@ -1,0 +1,26 @@
+<rootTrack>
+  <idDes>
+    <id>[1:12592:3]</id>
+    <Des>  SMTP ClamAV recipient command injection attempt </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Attempted Administrator Privilege Gain</Classification>
+  <time>11/11-09:46:36.030465</time>
+  <SrcIP>10.2.23.220:46403</SrcIP>
+  <DesIP>7.204.241.161:25</DesIP>
+</rootTrack>
+
+
+<rootTrack>
+  <idDes>
+    <id>[129:4:1]</id>
+    <Des>  TCP Timestamp is outside of PAWS window </Des>
+  </idDes>
+  <Priority>Priority: 3</Priority>
+  <Classification>Nan</Classification>
+  <time>11/08-09:43:09.173299</time>
+  <SrcIP>10.1.60.203:57764</SrcIP>
+  <DesIP>7.204.241.161:25</DesIP>
+</rootTrack>
+
+

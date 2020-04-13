@@ -1,0 +1,72 @@
+<rootTrack>
+  <idDes>
+    <id>[1:2229:5]</id>
+    <Des>  WEB-PHP viewtopic.php access </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Web Application Attack</Classification>
+  <time>11/08-13:01:59.705919</time>
+  <SrcIP>10.2.190.254:59697</SrcIP>
+  <DesIP>154.241.88.201:80</DesIP>
+  <cveID>CVE-2003-0486</cveID>
+  <cveDescription>SQL injection vulnerability in viewtopic.php for phpBB 2.0.5 and earlier allows remote attackers to steal password hashes via the topic_id parameter.</cveDescription>
+  <AttackVector>Network</AttackVector>
+  <AccessComplexity>Low</AccessComplexity>
+  <Authentication>None</Authentication>
+  <ConfidentialityImpact>Partial</ConfidentialityImpact>
+  <IntegrityImpact>None</IntegrityImpact>
+  <AvailabilityImpact>None</AvailabilityImpact>
+  <BugtraqID>7979</BugtraqID>
+  <BugtraqClass>Input Validation Error</BugtraqClass>
+  <BugtraqRemote>Yes</BugtraqRemote>
+  <BugtraqLocal>No</BugtraqLocal>
+  <BugtraqDescription>phpBB Viewtopic.PHP SQL Injection Vulnerability</BugtraqDescription>
+</rootTrack>
+<rootTrack>
+  <idDes>
+    <id>[1:2229:5]</id>
+    <Des>  WEB-PHP viewtopic.php access </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Web Application Attack</Classification>
+  <time>11/08-13:02:21.262448</time>
+  <SrcIP>10.2.190.254:43080</SrcIP>
+  <DesIP>154.241.88.201:80</DesIP>
+  <cveID>CVE-2003-0486</cveID>
+  <cveDescription>SQL injection vulnerability in viewtopic.php for phpBB 2.0.5 and earlier allows remote attackers to steal password hashes via the topic_id parameter.</cveDescription>
+  <AttackVector>Network</AttackVector>
+  <AccessComplexity>Low</AccessComplexity>
+  <Authentication>None</Authentication>
+  <ConfidentialityImpact>Partial</ConfidentialityImpact>
+  <IntegrityImpact>None</IntegrityImpact>
+  <AvailabilityImpact>None</AvailabilityImpact>
+  <BugtraqID>7979</BugtraqID>
+  <BugtraqClass>Input Validation Error</BugtraqClass>
+  <BugtraqRemote>Yes</BugtraqRemote>
+  <BugtraqLocal>No</BugtraqLocal>
+  <BugtraqDescription>phpBB Viewtopic.PHP SQL Injection Vulnerability</BugtraqDescription>
+</rootTrack>
+<rootTrack>
+  <idDes>
+    <id>[1:2229:5]</id>
+    <Des>  WEB-PHP viewtopic.php access </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Web Application Attack</Classification>
+  <time>11/08-13:02:22.318897</time>
+  <SrcIP>10.2.190.254:49250</SrcIP>
+  <DesIP>154.241.88.201:80</DesIP>
+  <cveID>CVE-2003-0486</cveID>
+  <cveDescription>SQL injection vulnerability in viewtopic.php for phpBB 2.0.5 and earlier allows remote attackers to steal password hashes via the topic_id parameter.</cveDescription>
+  <AttackVector>Network</AttackVector>
+  <AccessComplexity>Low</AccessComplexity>
+  <Authentication>None</Authentication>
+  <ConfidentialityImpact>Partial</ConfidentialityImpact>
+  <IntegrityImpact>None</IntegrityImpact>
+  <AvailabilityImpact>None</AvailabilityImpact>
+  <BugtraqID>7979</BugtraqID>
+  <BugtraqClass>Input Validation Error</BugtraqClass>
+  <BugtraqRemote>Yes</BugtraqRemote>
+  <BugtraqLocal>No</BugtraqLocal>
+  <BugtraqDescription>phpBB Viewtopic.PHP SQL Injection Vulnerability</BugtraqDescription>
+</rootTrack>

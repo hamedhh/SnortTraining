@@ -1,0 +1,1841 @@
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-21:57:27.805455 134.240.18.13:8014 -> 134.240.12.190:2368
+TCP TTL:127 TOS:0x0 ID:10970 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC23FFCF6  Ack: 0xB780B6D7  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-21:57:28.385128 134.240.18.13:8014 -> 134.240.12.190:2369
+TCP TTL:127 TOS:0x0 ID:11406 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xA9F7237A  Ack: 0xF8142E9C  Win: 0xFAF5  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-21:57:28.427968 134.240.18.13:8014 -> 134.240.12.190:2370
+TCP TTL:127 TOS:0x0 ID:11411 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x7D1D5BE2  Ack: 0xCF945A7  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-21:57:35.730905 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18413 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-21:58:05.023075 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18512 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-21:58:34.387233 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18590 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-21:59:04.279332 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18686 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-21:59:33.879432 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18769 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:00:03.667389 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18866 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:00:33.567648 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:18950 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:01:02.967732 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19035 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:01:32.235966 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19147 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:02:01.728226 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19230 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:02:29.472193 134.240.18.13:8014 -> 134.240.12.190:2378
+TCP TTL:127 TOS:0x0 ID:17508 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xC39A14A  Ack: 0xCA75B548  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:02:30.059527 134.240.18.13:8014 -> 134.240.12.190:2379
+TCP TTL:127 TOS:0x0 ID:18295 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x41D6DE1B  Ack: 0x85F1E442  Win: 0xFACE  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:02:30.102358 134.240.18.13:8014 -> 134.240.12.190:2380
+TCP TTL:127 TOS:0x0 ID:18350 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x26494C06  Ack: 0x5F76D7B2  Win: 0xFAD4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:02:31.284219 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19351 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:03:00.928314 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19436 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:03:30.660588 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19544 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:04:00.092784 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19641 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:04:29.196878 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19739 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:04:59.056986 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19836 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:05:28.357026 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:19930 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:05:57.485218 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20028 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:06:26.929518 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20133 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:06:56.285590 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20242 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:07:25.985716 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20343 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:07:32.141219 134.240.18.13:8014 -> 134.240.12.190:2383
+TCP TTL:127 TOS:0x0 ID:2800 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xDF35B07  Ack: 0xF6FEC388  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:07:32.685378 134.240.18.13:8014 -> 134.240.12.190:2384
+TCP TTL:127 TOS:0x0 ID:2991 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xB4A5553D  Ack: 0xEB0FA806  Win: 0xFAF9  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:07:32.727803 134.240.18.13:8014 -> 134.240.12.190:2385
+TCP TTL:127 TOS:0x0 ID:3014 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xECE8A919  Ack: 0x13E35FE5  Win: 0xFB44  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:07:55.693859 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20442 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:08:25.037811 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20537 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:08:54.953933 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20622 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:09:24.210170 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20711 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:09:53.590288 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20795 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:10:23.226458 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20889 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:10:52.342688 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:20969 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:11:21.558712 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21070 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:11:51.354951 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21144 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:12:21.003028 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21240 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:12:34.763952 134.240.18.13:8014 -> 134.240.12.190:2392
+TCP TTL:127 TOS:0x0 ID:23009 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xAB5FEF7E  Ack: 0x915A4E1F  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:12:35.294720 134.240.18.13:8014 -> 134.240.12.190:2393
+TCP TTL:127 TOS:0x0 ID:23015 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x92749486  Ack: 0xAC9A087A  Win: 0xFACE  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:12:35.337433 134.240.18.13:8014 -> 134.240.12.190:2394
+TCP TTL:127 TOS:0x0 ID:23020 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xF1BDD2D5  Ack: 0x627D4C45  Win: 0xFB54  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:12:50.527244 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21324 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:13:19.671309 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21419 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:13:49.608658 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21502 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:14:19.571555 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21603 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:14:49.399677 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21683 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:15:18.531905 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21779 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:15:48.352018 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21862 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:16:17.772066 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:21958 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:16:47.460267 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22037 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:17:16.652409 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22138 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:17:37.385588 134.240.18.13:8014 -> 134.240.12.190:2396
+TCP TTL:127 TOS:0x0 ID:8267 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x80E653BF  Ack: 0x8A21B84C  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:17:37.951624 134.240.18.13:8014 -> 134.240.12.190:2397
+TCP TTL:127 TOS:0x0 ID:8321 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xD6523AD3  Ack: 0xA4B1562  Win: 0xFAF6  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:17:37.996268 134.240.18.13:8014 -> 134.240.12.190:2398
+TCP TTL:127 TOS:0x0 ID:8326 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x89DE1C35  Ack: 0xBBCC58E2  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:17:46.368602 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22215 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:18:16.280043 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22311 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:18:45.672774 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22397 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:19:15.117070 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22492 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:19:44.741067 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22571 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:20:14.285417 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22666 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:20:43.589273 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22749 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:21:13.441501 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22848 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:21:43.361553 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:22928 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:22:12.493708 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23030 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:22:40.038864 134.240.18.13:8014 -> 134.240.12.190:2399
+TCP TTL:127 TOS:0x0 ID:27078 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xB68FB748  Ack: 0xAB2BACED  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:22:40.580562 134.240.18.13:8014 -> 134.240.12.190:2400
+TCP TTL:127 TOS:0x0 ID:27191 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x4DD86C41  Ack: 0x3F91CBE7  Win: 0xFACD  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:22:40.624625 134.240.18.13:8014 -> 134.240.12.190:2401
+TCP TTL:127 TOS:0x0 ID:27196 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x2F30DCBA  Ack: 0x58C49534  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:22:41.681940 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23108 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:23:10.838080 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23197 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:23:40.350442 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23277 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:24:09.730303 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23373 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:24:39.622581 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23455 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:25:08.734682 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23554 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:25:38.718779 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23633 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:26:08.474855 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23730 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:26:37.939089 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23816 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:27:07.495251 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23911 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:27:37.095348 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:23990 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:27:42.664653 134.240.18.13:8014 -> 134.240.12.190:2407
+TCP TTL:127 TOS:0x0 ID:13091 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x6BD6DEC3  Ack: 0xC7CBB004  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:27:43.211965 134.240.18.13:8014 -> 134.240.12.190:2408
+TCP TTL:127 TOS:0x0 ID:13107 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xC2B57610  Ack: 0x6C398C5B  Win: 0xFAF4  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:27:43.254606 134.240.18.13:8014 -> 134.240.12.190:2409
+TCP TTL:127 TOS:0x0 ID:13112 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x1EC18072  Ack: 0xC25F996F  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:28:06.491510 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24090 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:28:35.603694 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24170 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:29:05.155684 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24267 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:29:34.672166 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24353 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:30:04.460042 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24452 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:30:34.160158 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24529 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:31:03.572211 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24632 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:31:32.992497 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24705 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:32:02.156503 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24792 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:32:31.560677 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24884 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:32:45.290504 134.240.18.13:8014 -> 134.240.12.190:2412
+TCP TTL:127 TOS:0x0 ID:302 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xE49350AE  Ack: 0xD0CD1E94  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:32:45.840518 134.240.18.13:8014 -> 134.240.12.190:2413
+TCP TTL:127 TOS:0x0 ID:326 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xEEBE4E68  Ack: 0xBF899535  Win: 0xFAD1  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:32:45.881987 134.240.18.13:8014 -> 134.240.12.190:2414
+TCP TTL:127 TOS:0x0 ID:331 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x232FF697  Ack: 0x69E420D4  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:33:01.244856 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:24962 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:33:31.153037 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25051 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:34:00.465121 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25138 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:34:29.913221 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25226 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:34:59.849470 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25311 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:35:29.261525 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25398 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:35:59.065668 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25488 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:36:28.217796 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25578 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:36:57.521990 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25668 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:37:27.282117 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25755 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:37:47.924679 134.240.18.13:8014 -> 134.240.12.190:2417
+TCP TTL:127 TOS:0x0 ID:17186 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x49FA8D7A  Ack: 0x9CE95562  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:37:48.495860 134.240.18.13:8014 -> 134.240.12.190:2418
+TCP TTL:127 TOS:0x0 ID:17207 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x7124F63F  Ack: 0xC129BCD8  Win: 0xFAF6  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:37:48.540855 134.240.18.13:8014 -> 134.240.12.190:2419
+TCP TTL:127 TOS:0x0 ID:17212 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x959C923C  Ack: 0xF66AD4F1  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:37:56.830201 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25844 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:38:26.390363 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:25944 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:38:55.782573 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26047 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:39:25.598698 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26156 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:39:54.750901 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26284 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:40:24.311037 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26379 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:40:54.256264 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26471 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:41:23.579327 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26572 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:41:52.775416 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26668 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:42:22.267640 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26758 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:42:50.583174 134.240.18.13:8014 -> 134.240.12.190:2438
+TCP TTL:127 TOS:0x0 ID:2411 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x97079C1A  Ack: 0xE930CFBF  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:42:51.218767 134.240.18.13:8014 -> 134.240.12.190:2439
+TCP TTL:127 TOS:0x0 ID:2667 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x600C4873  Ack: 0x3F8E324  Win: 0xFAD0  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:42:51.261793 134.240.18.13:8014 -> 134.240.12.190:2440
+TCP TTL:127 TOS:0x0 ID:2672 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x48D7149C  Ack: 0x1C710240  Win: 0xFAF4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:42:51.711638 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26870 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:43:21.035753 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:26977 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:43:50.652020 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27067 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:44:20.600000 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27165 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:44:50.292299 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27249 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:45:20.028342 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27342 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:45:49.212454 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27436 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:46:18.388756 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27531 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:46:47.952762 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27613 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:47:17.304708 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27709 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:47:46.537095 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27790 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:47:53.298267 134.240.18.13:8014 -> 134.240.12.190:2441
+TCP TTL:127 TOS:0x0 ID:21214 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x927C0DF6  Ack: 0x81A9F358  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:47:53.889454 134.240.18.13:8014 -> 134.240.12.190:2442
+TCP TTL:127 TOS:0x0 ID:21943 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x29587B88  Ack: 0x6D43A965  Win: 0xFAF7  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:47:53.931978 134.240.18.13:8014 -> 134.240.12.190:2443
+TCP TTL:127 TOS:0x0 ID:21948 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x5850B029  Ack: 0xCF108A16  Win: 0xFB54  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:48:15.697262 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27881 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:48:44.886319 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:27962 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:49:14.334693 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28061 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:49:43.741522 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28141 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:50:13.217706 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28232 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:50:42.850360 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28317 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:51:12.765908 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28410 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:51:42.538150 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28494 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:52:12.154270 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28592 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:52:41.430371 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28673 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:52:55.968069 134.240.18.13:8014 -> 134.240.12.190:2445
+TCP TTL:127 TOS:0x0 ID:7887 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xF86D358C  Ack: 0xDB4FD2B7  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:52:56.496779 134.240.18.13:8014 -> 134.240.12.190:2446
+TCP TTL:127 TOS:0x0 ID:8603 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x711E7395  Ack: 0xA1C34FFC  Win: 0xFAF5  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:52:56.540036 134.240.18.13:8014 -> 134.240.12.190:2447
+TCP TTL:127 TOS:0x0 ID:8608 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x472F7403  Ack: 0x8EED669C  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:53:11.342621 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28761 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:53:40.606595 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28846 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:54:10.198857 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:28936 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:54:39.802976 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29021 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:55:09.063293 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29118 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:55:38.843297 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29203 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:56:08.063422 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29296 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:56:37.375464 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29385 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:57:07.275780 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29479 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:57:37.015833 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29562 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:57:58.581397 134.240.18.13:8014 -> 134.240.12.190:2456
+TCP TTL:127 TOS:0x0 ID:26199 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x5204D735  Ack: 0x322862EF  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:57:59.167361 134.240.18.13:8014 -> 134.240.12.190:2457
+TCP TTL:127 TOS:0x0 ID:26211 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xB137E7ED  Ack: 0x5E921152  Win: 0xFAD1  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-22:57:59.210094 134.240.18.13:8014 -> 134.240.12.190:2458
+TCP TTL:127 TOS:0x0 ID:26216 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xD19660D  Ack: 0x388DC695  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:58:06.940063 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29664 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:58:36.372140 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29747 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:59:06.356224 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29839 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-22:59:36.356326 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:29927 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:00:05.796614 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30019 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:00:35.584521 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30106 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:01:05.156777 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30204 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:01:34.920915 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30307 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:02:04.501085 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30402 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:02:33.981192 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30521 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:03:01.247921 134.240.18.13:8014 -> 134.240.12.190:2462
+TCP TTL:127 TOS:0x0 ID:10384 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xCD08DDF5  Ack: 0xC6E4BDEC  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:03:01.792461 134.240.18.13:8014 -> 134.240.12.190:2463
+TCP TTL:127 TOS:0x0 ID:10457 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x584BDA42  Ack: 0xBAED738D  Win: 0xFAD0  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:03:01.835501 134.240.18.13:8014 -> 134.240.12.190:2464
+TCP TTL:127 TOS:0x0 ID:10473 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x5BCE0B32  Ack: 0xA0603F01  Win: 0xFB54  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:03:03.645334 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30617 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:03:33.381443 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30730 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:04:02.537579 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30830 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:04:31.917647 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:30932 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:05:01.281850 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31015 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:05:30.522030 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31114 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:05:59.978129 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31214 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:06:29.902382 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31331 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:06:59.670413 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31427 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:07:29.026631 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31521 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:07:58.294656 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31602 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:08:03.872337 134.240.18.13:8014 -> 134.240.12.190:2468
+TCP TTL:127 TOS:0x0 ID:28775 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x1BE84C1B  Ack: 0xF943D5D7  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:08:04.424608 134.240.18.13:8014 -> 134.240.12.190:2469
+TCP TTL:127 TOS:0x0 ID:28782 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x86B5356F  Ack: 0xB5652B7D  Win: 0xFAF7  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:08:04.467120 134.240.18.13:8014 -> 134.240.12.190:2470
+TCP TTL:127 TOS:0x0 ID:28787 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x6A2B6257  Ack: 0x72FAF247  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:08:27.506882 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31699 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:08:56.858982 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31780 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:09:26.795096 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31872 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:09:56.479163 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:31961 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:10:25.787369 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32050 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:10:55.688068 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32136 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:11:24.903747 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32229 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:11:54.235769 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32313 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:12:24.099918 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32405 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:12:53.836151 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32498 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:13:06.506350 134.240.18.13:8014 -> 134.240.12.190:2477
+TCP TTL:127 TOS:0x0 ID:14438 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x844FF3C1  Ack: 0x5A415638  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:13:07.363941 134.240.18.13:8014 -> 134.240.12.190:2478
+TCP TTL:127 TOS:0x0 ID:15373 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xAFD0111F  Ack: 0x8C8C9D9  Win: 0xFAF6  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:13:07.407571 134.240.18.13:8014 -> 134.240.12.190:2479
+TCP TTL:127 TOS:0x0 ID:15527 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x1A69D4B5  Ack: 0x98BA7377  Win: 0xFB54  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:13:23.112318 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32589 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:13:52.680482 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32669 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:14:22.236442 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32770 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:14:51.760590 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32851 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:15:21.388808 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:32941 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:15:51.080894 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33024 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:16:20.469017 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33117 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:16:50.465577 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33192 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:17:20.273339 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33294 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:17:49.389483 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33369 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:18:09.451757 134.240.18.13:8014 -> 134.240.12.190:2481
+TCP TTL:127 TOS:0x0 ID:3976 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x9C8DB3AA  Ack: 0x46F0CB6A  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:18:09.981212 134.240.18.13:8014 -> 134.240.12.190:2482
+TCP TTL:127 TOS:0x0 ID:4088 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xDA9A8F0B  Ack: 0xDA3E9EFB  Win: 0xFACD  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:18:10.024707 134.240.18.13:8014 -> 134.240.12.190:2483
+TCP TTL:127 TOS:0x0 ID:4128 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x9A30EEC5  Ack: 0xE1D66B39  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:18:19.377844 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33468 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:18:48.749795 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33546 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:19:18.665931 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33645 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:19:48.322135 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33720 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:20:17.494100 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33826 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:20:47.242353 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:33901 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:21:17.018392 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34000 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:21:46.366547 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34079 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:22:15.542653 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34180 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:22:45.442800 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34255 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:23:12.059966 134.240.18.13:8014 -> 134.240.12.190:2484
+TCP TTL:127 TOS:0x0 ID:21053 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xCAD146F2  Ack: 0x629925A3  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:23:12.565617 134.240.18.13:8014 -> 134.240.12.190:2485
+TCP TTL:127 TOS:0x0 ID:21077 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xD68EA000  Ack: 0x943F41E4  Win: 0xFAD1  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:23:12.610720 134.240.18.13:8014 -> 134.240.12.190:2486
+TCP TTL:127 TOS:0x0 ID:21082 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x65CAC916  Ack: 0xE322CE36  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:23:15.267058 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34355 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:23:44.479261 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34436 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:24:13.907295 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34535 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:24:43.699188 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34613 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:25:13.547608 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34718 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:25:43.499690 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34800 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:26:13.187852 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34897 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:26:42.583973 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:34977 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:27:12.040182 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35074 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:27:41.676240 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35151 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:28:11.024450 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35247 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:28:14.653238 134.240.18.13:8014 -> 134.240.12.190:2504
+TCP TTL:127 TOS:0x0 ID:18520 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x9885F985  Ack: 0xF6F318E0  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:28:15.186984 134.240.18.13:8014 -> 134.240.12.190:2505
+TCP TTL:127 TOS:0x0 ID:18914 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xE31CC824  Ack: 0x49C82456  Win: 0xFAF7  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:28:15.230149 134.240.18.13:8014 -> 134.240.12.190:2506
+TCP TTL:127 TOS:0x0 ID:18986 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xBE00C4A7  Ack: 0xC1101066  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:28:40.224537 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35319 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:29:09.900693 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35420 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:29:39.560758 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35503 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:30:09.220925 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35598 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:30:38.925096 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35674 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:31:08.677297 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35778 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:31:38.385448 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35866 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:32:07.957522 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:35988 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:32:37.489709 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36088 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:33:06.805783 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36206 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:33:17.272010 134.240.18.13:8014 -> 134.240.12.190:2512
+TCP TTL:127 TOS:0x0 ID:4314 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x9B12B72E  Ack: 0xDFC6EDBB  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:33:17.851424 134.240.18.13:8014 -> 134.240.12.190:2513
+TCP TTL:127 TOS:0x0 ID:4345 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x299FAF0B  Ack: 0x72F7D2B0  Win: 0xFAD1  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:33:17.894366 134.240.18.13:8014 -> 134.240.12.190:2514
+TCP TTL:127 TOS:0x0 ID:4355 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xF64AF6AB  Ack: 0xF6FE81B7  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:33:36.593927 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36295 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:34:06.250103 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36402 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:34:36.158301 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36500 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:35:05.610343 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36599 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:35:35.050529 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36700 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:36:04.254608 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36817 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:36:33.894902 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:36900 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:37:03.842888 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37016 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:37:33.323101 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37092 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:38:02.591282 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37181 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:38:19.936468 134.240.18.13:8014 -> 134.240.12.190:2516
+TCP TTL:127 TOS:0x0 ID:24171 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x54E32544  Ack: 0x3F23F408  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:38:20.472935 134.240.18.13:8014 -> 134.240.12.190:2517
+TCP TTL:127 TOS:0x0 ID:24181 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xFC2E0F51  Ack: 0x3C57C135  Win: 0xFAF8  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:38:20.515946 134.240.18.13:8014 -> 134.240.12.190:2518
+TCP TTL:127 TOS:0x0 ID:24186 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x5A52A74B  Ack: 0x80B161AC  Win: 0xFB54  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:38:32.471305 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37283 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:39:01.719447 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37368 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:39:30.895515 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37446 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:40:00.555715 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37539 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:40:30.455887 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37626 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:40:59.915950 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37711 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:41:29.412203 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37806 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:41:58.948282 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37891 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:42:28.628432 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:37976 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:42:58.008548 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38071 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:43:21.556601 134.240.18.13:8014 -> 134.240.12.190:2526
+TCP TTL:127 TOS:0x0 ID:9388 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xEEF6D987  Ack: 0x4B1A5338  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:43:22.119663 134.240.18.13:8014 -> 134.240.12.190:2527
+TCP TTL:127 TOS:0x0 ID:9399 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x84C112D9  Ack: 0x20966254  Win: 0xFACF  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:43:22.163108 134.240.18.13:8014 -> 134.240.12.190:2528
+TCP TTL:127 TOS:0x0 ID:9404 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x51813B43  Ack: 0xD85FDEA4  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:43:27.396825 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38156 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:43:57.300810 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38247 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:44:26.748972 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38335 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:44:56.073095 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38427 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:45:25.445277 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38511 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:45:54.721364 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38605 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:46:23.933526 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38692 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:46:53.561706 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38775 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:47:22.757736 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38872 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:47:52.489901 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:38955 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:48:22.226084 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39045 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:48:23.205452 134.240.18.13:8014 -> 134.240.12.190:2529
+TCP TTL:127 TOS:0x0 ID:27190 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x97A894CC  Ack: 0xC3BD63D6  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:48:23.741225 134.240.18.13:8014 -> 134.240.12.190:2530
+TCP TTL:127 TOS:0x0 ID:27258 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0x46C53F57  Ack: 0xAC3BFBFD  Win: 0xFAF6  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:48:23.784211 134.240.18.13:8014 -> 134.240.12.190:2531
+TCP TTL:127 TOS:0x0 ID:27264 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xC0C494C4  Ack: 0x1F88B0E0  Win: 0xFBC4  TcpLen: 20
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:48:51.770260 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39132 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:49:21.046285 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39215 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:49:50.914589 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39299 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:50:20.810557 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39394 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:50:50.186825 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39470 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:51:19.614888 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39561 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:51:48.747092 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39644 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:52:18.455112 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39735 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:52:48.295260 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39816 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [1:2189:5] BAD-TRAFFIC IP Proto 103 PIM [**]
+[Classification: Detection of a non-standard protocol or event] [Priority: 2] 
+11/11-23:53:18.103403 134.240.12.254 -> 224.0.0.13
+PIM TTL:1 TOS:0xC0 ID:39912 IpLen:20 DgmLen:58
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=11791][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2003-0567][Xref => http://www.securityfocus.com/bid/8211]
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:53:25.823847 134.240.18.13:8014 -> 134.240.12.190:2533
+TCP TTL:127 TOS:0x0 ID:12081 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0xE8DD118B  Ack: 0x260CBD3D  Win: 0xFC4E  TcpLen: 20
+
+[**] [120:1:1] (http_inspect) ANOMALOUS HTTP SERVER ON UNDEFINED HTTP PORT [**]
+[Priority: 3] 
+11/11-23:53:26.370581 134.240.18.13:8014 -> 134.240.12.190:2534
+TCP TTL:127 TOS:0x0 ID:12291 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xF956BFD2  Ack: 0xCF6B2DBA  Win: 0xFACF  TcpLen: 20

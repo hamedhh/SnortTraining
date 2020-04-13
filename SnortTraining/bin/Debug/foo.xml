@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rootTrack>
+  <idDes>
+    <id>[1:12592:3]</id>
+    <Des>  SMTP ClamAV recipient command injection attempt </Des>
+  </idDes>
+  <Priority>Priority: 1</Priority>
+  <Classification>Classification: Attempted Administrator Privilege Gain</Classification>
+  <time>11/11-09:46:36.030465</time>
+  <SrcIP>10.2.23.220:46403</SrcIP>
+  <DesIP>7.204.241.161:25</DesIP>
+</rootTrack>

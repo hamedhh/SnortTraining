@@ -1,0 +1,31 @@
+[**] [1:2002677:4] ET SCAN Nikto Web App Scan in Progress [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/10-09:58:04.891248 10.2.197.245:44765 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:57327 IpLen:20 DgmLen:214 DF
+***AP*** Seq: 0xEB9E25C5  Ack: 0xD0C4698A  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1505840 138808152 
+[Xref => http://www.emergingthreats.net/cgi-bin/cvsweb.cgi/sigs/SCAN/SCAN_Nikto][Xref => http://doc.emergingthreats.net/2002677][Xref => http://www.cirt.net/code/nikto.shtml]
+
+[**] [1:2002677:4] ET SCAN Nikto Web App Scan in Progress [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/10-09:58:04.954851 10.2.197.245:44766 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:17303 IpLen:20 DgmLen:212 DF
+***AP*** Seq: 0xEAEAB9AE  Ack: 0xD092579E  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1505856 138808214 
+[Xref => http://www.emergingthreats.net/cgi-bin/cvsweb.cgi/sigs/SCAN/SCAN_Nikto][Xref => http://doc.emergingthreats.net/2002677][Xref => http://www.cirt.net/code/nikto.shtml]
+
+[**] [1:2002677:4] ET SCAN Nikto Web App Scan in Progress [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/10-09:58:05.017847 10.2.197.245:44767 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:57228 IpLen:20 DgmLen:213 DF
+***AP*** Seq: 0xEB7525C3  Ack: 0xD100F28F  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1505872 138808280 
+[Xref => http://www.emergingthreats.net/cgi-bin/cvsweb.cgi/sigs/SCAN/SCAN_Nikto][Xref => http://doc.emergingthreats.net/2002677][Xref => http://www.cirt.net/code/nikto.shtml]
+
+[**] [1:2002677:4] ET SCAN Nikto Web App Scan in Progress [**]
+[Classification: Web Application Attack] [Priority: 1] 
+11/10-09:58:05.088243 10.2.197.245:44768 -> 154.241.88.201:80
+TCP TTL:61 TOS:0x0 ID:14022 IpLen:20 DgmLen:213 DF
+***AP*** Seq: 0xEB8ACC9F  Ack: 0xD17E8E35  Win: 0xB7  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1505889 138808349 
+[Xref => http://www.emergingthreats.net/cgi-bin/cvsweb.cgi/sigs/SCAN/SCAN_Nikto][Xref => http://doc.emergingthreats.net/2002677][Xref => http://www.cirt.net/code/nikto.shtml]

@@ -1,0 +1,7 @@
+D:\SnortTraining\SnortTraining\bin\Debug\SnortTraining.exe.config
+D:\SnortTraining\SnortTraining\obj\Debug\SnortTraining.exe
+D:\SnortTraining\SnortTraining\obj\Debug\SnortTraining.pdb
+D:\SnortTraining\SnortTraining\bin\Debug\SnortTraining.exe
+D:\SnortTraining\SnortTraining\bin\Debug\SnortTraining.pdb
+D:\SnortTraining\SnortTraining\obj\Debug\SnortTraining.csprojResolveAssemblyReference.cache
+D:\SnortTraining\SnortTraining\bin\Debug\HtmlAgilityPack.dll
